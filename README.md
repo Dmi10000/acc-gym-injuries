@@ -48,9 +48,12 @@ pandas, numpy, matplotlib, seaborn, scikit-learn
 
 **Project Structure**
 
-.
+ .
+
 ├── DataForExercise.csv           # Sample dataset
+
 ├── README.md                     # This file
+
 └── acc_gym_injury_prediction.ipynb (or .py)  # Main Python script
 
 
